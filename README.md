@@ -1,1 +1,1 @@
-* Write reflection after project
+Simple recipe project to practice HTML

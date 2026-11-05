@@ -1,3 +1,19 @@
 .title {
     text-align: center;
 }
+
+.home {
+    text-align: center;
+}
+
+.main {
+    width: 100%;
+}
+
+.ingredients {
+    display: inline-block;
+}
+.image {
+    display: inline-block;
+    margin-left: 600px;
+}
